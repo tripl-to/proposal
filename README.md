@@ -18,11 +18,15 @@ An NFT distributed database will make all that obsolete. The availability and th
 
 In the most simple operation the _host_ publish what they want to sell and its price. The _traveller_ interact with the blockchain and get that price.
 
+_Host_ can drop rooms at a fixed price or to an auction. They can also set if they are allowing re-sales and a fee for the resale. Of course, there are cancelation fees.
+
 ## Privacy
 
 ## Bundles & Bids
 
 ## Private resale
+
+Did you book a room for that Champions Final in Barcelona and your team didn't get to final? Re sale that room to a fixed price or in an auction! The _host_ will get a part but there will be no cancelation.
 
 ## Blockchain governance
 
