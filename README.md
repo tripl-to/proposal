@@ -69,8 +69,8 @@ Who can you help this idea grow?
 - - ETH: [0xF1D732322E10020661D1CDC52118B796A846B38C](eth.png) (ERC20)
 - - XMR: [46jmvAETyCehRGBfNh6sgccjQ78cnviC81irNigqk77KUx4vigTRjRFMjVeLU8Bnf418EYYJCHqDK11gCSxbK1KRBcicP7n](xmr.png)
 - - Or buy any of NFTs
-- - - Buy me a life!
-- - - Shared folder (Red box)
+- - - [Buy me a life!](https://bit.ly/3nHQ2Uh)
+- - - [Shared folder (Red box)](https://bit.ly/3eVNPlm)
 
 
 
