@@ -54,8 +54,23 @@ By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_
 
 We are in the middle of a turn in history. A decentralized travel blockchain is inevitable, it's not about _if_ it's just about when and who. I hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experience.
 
-I shared this idea in my company, originally to include it the European Research Found. That founds are giving to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change. I never get an answer. Even I still believe that big players can help to develop this faster I'm not going to wait.
+I shared this idea in my company, originally to include it the European Research Found. That founds are giving to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I never get an answer. Even I still believe that big players can help to develop this faster I'm not going to wait.
 
 
 # Support
+
+Who can you help this idea grow? 
+
+- Share it in the social media
+- Share it in your company, university...
+- The idea is free to be copy and developed by anyone... and improved, of course.
+- I can work on the idea more but to do it fulltime I need financial support, if we consiedr this a path you can donate to
+- - BTC
+- - ETH
+- - XMR
+- - Or buy any of NFTs
+- - - Buy me a life!
+- - - Shared folder (Red box)
+
+
 
