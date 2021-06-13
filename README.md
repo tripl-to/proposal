@@ -63,14 +63,15 @@ Who can you help this idea grow?
 
 - Share it in the social media
 - Share it in your company, university...
-- The idea is free to be copy and developed by anyone... and improved, of course.
-- I can work on the idea more but to do it fulltime I need financial support, if we consiedr this a path you can donate to
-- - BTC
-- - ETH
-- - XMR
+- The idea is free to be copy and developed by anyone... and improved, of course, send a PR!
+- I can work on the idea more but to do it fulltime I need financial support, if we consider this a path you can donate to
+- - BTC: bc1qwprgqhg5yvc3pksgkx7ew8dhhpv7lp4jfl7qze
+- - ETH: 0xF1D732322E10020661D1CDC52118B796A846B38C (ERC20)
+- - XMR: 46jmvAETyCehRGBfNh6sgccjQ78cnviC81irNigqk77KUx4vigTRjRFMjVeLU8Bnf418EYYJCHqDK11gCSxbK1KRBcicP7n
 - - Or buy any of NFTs
 - - - Buy me a life!
 - - - Shared folder (Red box)
 
 
 
+e
