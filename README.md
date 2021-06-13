@@ -50,7 +50,7 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 # Who we are
 By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_ looks better than _me_ . I hope some people will join... me, us? :)
 
-## Why this is distributed as GPL
+## Why is this distributed as GPL
 
 We are in the middle of a turn in history. A decentralized travel blockchain is inevitable, it's not about _if_ it's just about when and who. I hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experience.
 
