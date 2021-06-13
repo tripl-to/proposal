@@ -48,6 +48,14 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 ## Roadmap
 
 # Who we are
-By the time of this commit, we are @fransimo. But we looks better than me and I hope some people will join... me, us? :)
+By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_ looks better than _me_ . I hope some people will join... me, us? :)
+
+## Why this is distributed as GPL
+
+We are in the middle of a turn in history. A decentralized travel blockchain is inevitable, it's not about _if_ it's just about when and who. I hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experience.
+
+I shared this idea in my company, originally to include it the European Research Found. That founds are giving to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change. I never get an answer. Even I still believe that big players can help to develop this faster I'm not going to wait.
+
 
 # Support
+
