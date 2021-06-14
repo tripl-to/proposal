@@ -8,8 +8,36 @@ Hotel nights, flight seats, opera tickets and a place in an exotic expedition ca
 
 - Travelers
 - Hosts (hotels, airlines, tourist attractions, guides, the ones giving the real experience to the traveler)
+- Performers (musicians, guides, a person or a group of person that directly interact with travelers to give them an experience)
 - Helpers (CRC services, translators, any service needed by the hosts to create a better experience for the traveler)
-- Middle mans (travel companies, tour operators, bed banks, channel managers, the ones that facilitate the travel more on the side of communication, aggregation)
+- Reseller (travel companies, tour operators, bed banks, channel managers, the ones that facilitate the travel more on the side of communication, aggregation, APIs)
+
+## Objects
+
+- Experience (a set of:)
+- - Booking
+- - - Accommodation
+- - - - Hotel
+- - - - Camping
+- - - - B&B
+- - - - AirBNB like
+- - - - Couch
+- - - - Bed
+- - - Transport
+- - - - Flight
+- - - - Train
+- - - - Car rental
+- - - - Taxi, transfer
+- - - - Bus
+- - - Event (ticket)
+- - - - Concert
+- - - Food? Amenities?...
+- Traveler
+- Host
+- Performer
+- Helper
+- Reseller
+
 
 ## Availability
 
@@ -27,7 +55,7 @@ All booking will remain anonymous until the moment of enjoying the service. At t
 
 Some service, like some flights, requires some personal information in advance, like nationality. On this can of services hosts can specify that data and if they allow last minute changes of ownership.
 
-All bookings even between the same traveler and host will be anonymised. The host will not be able to track previous booking from the same traveler in the blockchain unless the traveler allow it (usually as part of some loyalty program) but in anyway the relationship will be private in the bloackchian.
+All bookings even between the same traveler and host will be anonymized. The host will not be able to track previous booking from the same traveler in the blockchain unless the traveler allow it (usually as part of some loyalty program) but in anyway the relationship will be private in the bloackchian.
 
 ## Bundles & Bids
 
@@ -47,14 +75,20 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 
 ## Roadmap
 
+
+
+
+
 # Who we are
 By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_ looks better than _me_ . I hope some people will join... me, us? :)
 
 ## Why is this distributed as GPL
 
-We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about when and who. I hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experience.
+We are in the middle of a turn in history. A decentralized travel blockchain is inevitable, it's not about _if_ it's just about when and who. I hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experience.
 
-I shared this idea in my company, originally to include it the European Research Found. That founds are giving to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I never get an answer. Even I still believe that big players can help to develop this faster I'm not going to wait.
+I shared this idea in my company, originally to include it the European Research Found. That founds are giving to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I still believe that big players can help to develop this faster I'm not going to wait.
+
+
 
 
 # Support
@@ -72,6 +106,3 @@ Who can you help this idea grow?
 - - - [Buy me a life!](https://bit.ly/3nHQ2Uh)
 - - - [Shared folder (Red box)](https://bit.ly/3eVNPlm)
 
-
-
-e
