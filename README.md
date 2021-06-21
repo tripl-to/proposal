@@ -1,8 +1,8 @@
-# in via, travel and leisure block-chain
+# in via, experience, travel and leisure block-chain
 
 ## Introduction
 
-Hotel nights, flight seats, opera tickets and a place in an exotic expedition can be seen as NFT.
+Hotel nights, flight seats, opera tickets and a place in an exotic expedition can be seen as NFTs.
 
 ## Actors
 
@@ -20,19 +20,19 @@ An NFT distributed database will make all that obsolete. The availability and th
 
 In the most simple operation the _host_ publish what they want to sell and its price. The _traveler_ interact with the block-chain and get that price.
 
-_Host_ can drop rooms at a fixed price or to an auction. They can also set if they are allowing re-sales and a fee for the resale. Of course, there are cancellation fees.
+_Host_ can drop rooms at a fixed price or to an auction. They can also set if they are allowing re-sales and a fee for the resale. Of course, there will be cancellation fees.
 
 ## Privacy
 
-All booking will remain anonymous until the moment of enjoying the service. At the check in the user can show an confirmation code generated  with their private key.
+All booking will remain anonymous. At the check in the user can show an confirmation code generated with their private key. The _host_ can have temporary access to the _traveler_ personal information to complete regulation.
 
-Some service, like some flights, requires some personal information in advance, like nationality. On this can of services hosts can specify that data and if they allow last minute changes of ownership.
+Some service, like flights, requires some personal information in advance, like nationality. On this kind of services _hosts_ can specify which data can have last minute changes. Also, if the service requieres any data must be visible by the _host_ prior to the service the _traveler_ will know it before booking.
 
-All bookings even between the same traveler and host will be anonymized. The host will not be able to track previous booking from the same traveler in the block-chain unless the traveler allow it (usually as part of some loyalty program) but in anyway the relationship will be private in the block-chain.
+All bookings/transactions even between the same _traveler_ and _host_ will be anonymized. The host will not be able to track previous booking from the same traveler in the block-chain unless the traveler allow it (usually as part of some loyalty program) but in anyway the relationship will be private in the block-chain.
 
 ## Taxes
 
-The block-chain as a a decentralized entity can not retain any taxes. All prices in the block-chain are consumer prices. _Hosts_ and _helpers_ can generate invoices and taxes declaration based on the data in the block-chain. _Hosts_ can delegate this task to _helpers_ given them a restricted access to some data. _helpers_ can also deliver software that could be installed in the _hosts_ network to insure that any private data is never shared. _travelers_ can agree with the _hosts_ if their personal data can be shared with _helpers_ for certain purposes, like taxes.
+The block-chain as a decentralized entity can not retain any taxes. All prices in the block-chain are consumer prices. _Hosts_ and _helpers_ can generate invoices and taxes declaration based on the data in the block-chain. _Hosts_ can delegate this task to _helpers_ given them a restricted access to some data. _helpers_ can also deliver software that could be installed in the _hosts_ network to insure that any private data is never shared. _travelers_ can agree with the _hosts_ if their personal data can be shared with _helpers_ for certain purposes, like taxes.
 
 Governments can see all transaction on the network. While the privacy is guaranteed for the _travelers_ open identity is a must for services providers in the network.
 
@@ -48,7 +48,7 @@ Did you book a room for that Champions Final in Barcelona and your team did not 
 
 ### Travelers points
 
-Travelers will earn _points_ by traveling, validating and reviewing _hosts_, _helpers_ and _performers_ to participate in the governance decisions.
+Travelers will earn _points_ by traveling, validating and reviewing _hosts_, _helpers_ and _performers_ to participate in the block-chain governance decisions.
 
 ### Host points
 
@@ -58,8 +58,8 @@ TBD
 
 We can make the travel industry a more fair one. Why traveling to xxx which is 10k km from home is cheaper than going to the country next to ours? Costs. Simple, but that implies that people get less for the same work.
 
-# Road map & high level implementation details
 
+# Road map & high level implementation details
 
 ## Road map
 
@@ -71,7 +71,7 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 
 ## inVia Coin
 
-By this time you may want to know which crypto asset to buy because this project is amazing.... well creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any existing coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. inVia coin may exist but we prefer to define an excellent product with a clear market rule before choosing a coin or create one.
+By this time you may want to know which crypto asset to buy because this project is amazing... Creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any existing coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. inVia coin may exist but **we prefer to define an excellent product with a clear market rules before choosing or creating a coin**.
 
 ## Identity
 
@@ -80,7 +80,7 @@ _hosts_ may also requires delegation of certain permission to their workers, _he
 
 ## Host validation
 
-A _host_ can be validated be a reseller (acting as a _helper_ for the block-chain) or by _travelers_. As any decentralized service making sure that the service offered are real is a main concern. Actual players can be very use full to validate _hosts_.
+A _host_ can be validated be a reseller (acting as a _helper_ for the block-chain) or by _travelers_. As any decentralized database, making sure that the service offered are real is a main concern. Actual travel industry players can be very use full to validate _hosts_.
 
 ## Objects
 
