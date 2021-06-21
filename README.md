@@ -1,8 +1,8 @@
-# in via, travel and leisure blockchain
+# in via, travel and leisure block-chain
 
 ## Introduction
 
-Hotel nights, flight seats, opera tickets and a place in an exotic expedition ca be seen as NFTs.
+Hotel nights, flight seats, opera tickets and a place in an exotic expedition can be seen as NFT.
 
 ## Actors
 
@@ -18,7 +18,7 @@ Travel industry spends on availability calculations a lot. Over and over tons of
 
 An NFT distributed database will make all that obsolete. The availability and the price are always public.
 
-In the most simple operation the _host_ publish what they want to sell and its price. The _traveler_ interact with the blockchain and get that price.
+In the most simple operation the _host_ publish what they want to sell and its price. The _traveler_ interact with the block-chain and get that price.
 
 _Host_ can drop rooms at a fixed price or to an auction. They can also set if they are allowing re-sales and a fee for the resale. Of course, there are cancellation fees.
 
@@ -28,11 +28,11 @@ All booking will remain anonymous until the moment of enjoying the service. At t
 
 Some service, like some flights, requires some personal information in advance, like nationality. On this can of services hosts can specify that data and if they allow last minute changes of ownership.
 
-All bookings even between the same traveler and host will be anonymized. The host will not be able to track previous booking from the same traveler in the blockchain unless the traveler allow it (usually as part of some loyalty program) but in anyway the relationship will be private in the blockchain.
+All bookings even between the same traveler and host will be anonymized. The host will not be able to track previous booking from the same traveler in the block-chain unless the traveler allow it (usually as part of some loyalty program) but in anyway the relationship will be private in the block-chain.
 
 ## Taxes
 
-The blockchain as a a decentralised entity can not retain any taxes. All prices in the blockchain are consumer prices. _Hosts_ and _helpers_ can generate invoices and taxes declaration based on the data in the blockchain. _Hosts_ can delegate this task to _helpers_ given them a restricted access to some data. _helpers_ can also deliver software that could be installed in the _hosts_ network to insure that any private data is never shared. _travlers_ can agree with the _hosts_ if their personal data can be shared with _helpers_ for certain purposes, like taxes.
+The block-chain as a a decentralized entity can not retain any taxes. All prices in the block-chain are consumer prices. _Hosts_ and _helpers_ can generate invoices and taxes declaration based on the data in the block-chain. _Hosts_ can delegate this task to _helpers_ given them a restricted access to some data. _helpers_ can also deliver software that could be installed in the _hosts_ network to insure that any private data is never shared. _travelers_ can agree with the _hosts_ if their personal data can be shared with _helpers_ for certain purposes, like taxes.
 
 Governments can see all transaction on the network. While the privacy is guaranteed for the _travelers_ open identity is a must for services providers in the network.
 
@@ -44,7 +44,7 @@ A _hosts_ (an hotel, for example) can start a bid for a bundle (allotment) for t
 
 Did you book a room for that Champions Final in Barcelona and your team did not get to final? Re sale that room to a fixed price or in an auction! The _host_ will get a part but there will be no cancellation.
 
-## Blockchain rewards and governance
+## Block-chain rewards and governance
 
 ### Travelers points
 
@@ -58,10 +58,10 @@ TBD
 
 We can make the travel industry a more fair one. Why traveling to xxx which is 10k km from home is cheaper than going to the country next to ours? Costs. Simple, but that implies that people get less for the same work.
 
-# Roadmap & high level implementation details
+# Road map & high level implementation details
 
 
-## Rodamap
+## Road map
 
 - Ideation, sharing => looking for people to join, criticize, grow the idea.
 - Coin selection or creation
@@ -71,7 +71,7 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 
 ## inVia Coin
 
-By this time you may want to know which crypto asset to buy because this project is amazing.... well creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any exisiting coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. inVia coin may exist but we prefer to define an excellent product with a clear maket rule before choosing a coin or create one.
+By this time you may want to know which crypto asset to buy because this project is amazing.... well creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any existing coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. inVia coin may exist but we prefer to define an excellent product with a clear market rule before choosing a coin or create one.
 
 ## Identity
 
@@ -80,7 +80,7 @@ _hosts_ may also requires delegation of certain permission to their workers, _he
 
 ## Host validation
 
-A _host_ can be validated be a reseller (acting as a _helper_ for the blockchian) or by _travelers_. As any decentralised service making sure that the service offered are real is a main concern. Actual players can be very use full to validate _hosts_.
+A _host_ can be validated be a reseller (acting as a _helper_ for the block-chain) or by _travelers_. As any decentralized service making sure that the service offered are real is a main concern. Actual players can be very use full to validate _hosts_.
 
 ## Objects
 
