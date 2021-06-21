@@ -58,7 +58,7 @@ TBD
 
 We can make the travel industry a more fair one. Why traveling to xxx which is 10k km from home is cheaper than going to the country next to ours? Costs. Simple, but that implies that people get less for the same work.
 
-# Roadmap & high level implementation details 
+# Roadmap & high level implementation details
 
 
 ## Rodamap
@@ -133,7 +133,7 @@ Who can you help this idea grow?
 - - BTC: [bc1qwprgqhg5yvc3pksgkx7ew8dhhpv7lp4jfl7qze](btc.png)
 - - ETH: [0xF1D732322E10020661D1CDC52118B796A846B38C](eth.png) (ERC20)
 - - XMR: [46jmvAETyCehRGBfNh6sgccjQ78cnviC81irNigqk77KUx4vigTRjRFMjVeLU8Bnf418EYYJCHqDK11gCSxbK1KRBcicP7n](xmr.png)
-- - XTZ: 
+- - XTZ: [tz1dGPLxgpPTUGhAGb3cCXsiaQSuraun2kNj](xtz.png)
 - - Or buy any of NFTs:
 - - - [Buy me a life!](https://bit.ly/3nHQ2Uh)
 - - - [Shared folder (Red box)](https://bit.ly/3eVNPlm)
