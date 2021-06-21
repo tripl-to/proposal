@@ -48,9 +48,11 @@ Did you book a room for that Champions Final in Barcelona and your team did not 
 
 ### Travelers points
 
-Travelers will earn _points_ by traveling, validating and reviweing _hosts_, _helpers_ and _performers_ to participate in the governance decisions.
+Travelers will earn _points_ by traveling, validating and reviewing _hosts_, _helpers_ and _performers_ to participate in the governance decisions.
 
 ### Host points
+
+TBD
 
 ## Industry play or independent
 
@@ -58,9 +60,18 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 
 # Roadmap & high level implementation details 
 
+
+## Rodamap
+
+- Ideation, sharing => looking for people to join, criticize, grow the idea.
+- Coin selection or creation
+- Coding first versions on test networks.
+- TBD
+
+
 ## inVia Coin
 
-By this time you may want to know which crypto asset to buy because this project is amazing.... well creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any exisiting coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. inVia coin may exist but we prefer to define an excelent product with a clear maket rule before choosing a coin or create one.
+By this time you may want to know which crypto asset to buy because this project is amazing.... well creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any exisiting coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. inVia coin may exist but we prefer to define an excellent product with a clear maket rule before choosing a coin or create one.
 
 ## Identity
 
@@ -69,7 +80,7 @@ _hosts_ may also requires delegation of certain permission to their workers, _he
 
 ## Host validation
 
-A _host_ can be validated be a reseller (acting as a _helper_ for the blockchian) or by _travelers_. As any decentralised service making sure that the service offered are real is a main concern.
+A _host_ can be validated be a reseller (acting as a _helper_ for the blockchian) or by _travelers_. As any decentralised service making sure that the service offered are real is a main concern. Actual players can be very use full to validate _hosts_.
 
 ## Objects
 
@@ -117,11 +128,12 @@ Who can you help this idea grow?
 
 - Share it in the social media.
 - Share it in your company, university...
-- The idea is free to be copy and developed by anyone... and improved, of course, *send a PR!*
+- The idea is free to be copy and developed by anyone... and improved, of course, you can *send a PR!* if you want this document can be improve (I'm sure of it)
 - I can work on the idea more but to do it full time I need financial support, if we consider this a path you can donate to:
 - - BTC: [bc1qwprgqhg5yvc3pksgkx7ew8dhhpv7lp4jfl7qze](btc.png)
 - - ETH: [0xF1D732322E10020661D1CDC52118B796A846B38C](eth.png) (ERC20)
 - - XMR: [46jmvAETyCehRGBfNh6sgccjQ78cnviC81irNigqk77KUx4vigTRjRFMjVeLU8Bnf418EYYJCHqDK11gCSxbK1KRBcicP7n](xmr.png)
+- - XTZ: 
 - - Or buy any of NFTs:
 - - - [Buy me a life!](https://bit.ly/3nHQ2Uh)
 - - - [Shared folder (Red box)](https://bit.ly/3eVNPlm)
