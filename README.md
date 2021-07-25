@@ -113,7 +113,7 @@ A _host_ can be validated be a reseller (acting as a _helper_ for the block-chai
 # Who we are
 By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_ looks better than _me_ . I hope some people will join... me, us? :)
 
-## Why is this distributed as GPL
+## Why is this distributed as MIT
 
 We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about _when and who_. We hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experiences.
 
