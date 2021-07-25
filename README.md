@@ -63,8 +63,8 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 
 ## Road map
 
-- Ideation, sharing => looking for people to join, criticize, grow the idea.
-- Coin selection or creation
+- Ideation, sharing => looking for people/universities/companies to join, criticize, grow the idea.
+- Coin selection or creation.
 - Coding first versions on test networks.
 - TBD
 
@@ -115,9 +115,9 @@ By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_
 
 ## Why is this distributed as GPL
 
-We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about when and who. We hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experiences.
+We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about _when and who_. We hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experiences.
 
-I shared this idea in my company, originally to include it the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I still believe that big players can help to develop this faster but I'm not going to wait.
+We would love to send this idea to the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I still believe that big players can help to develop this faster but I'm not going to wait.
 
 
 
@@ -129,11 +129,4 @@ Who can you help this idea grow?
 - Share it in the social media.
 - Share it in your company, university...
 - The idea is free to be copy and developed by anyone... and improved, of course, you can *send a PR!* if you want this document can be improve (I'm sure of it)
-- I can work on the idea more but to do it full time I need financial support, if we consider this a path you can donate to:
-- - BTC: [bc1qwprgqhg5yvc3pksgkx7ew8dhhpv7lp4jfl7qze](btc.png)
-- - ETH: [0xF1D732322E10020661D1CDC52118B796A846B38C](eth.png) (ERC20)
-- - XMR: [46jmvAETyCehRGBfNh6sgccjQ78cnviC81irNigqk77KUx4vigTRjRFMjVeLU8Bnf418EYYJCHqDK11gCSxbK1KRBcicP7n](xmr.png)
-- - XTZ: [tz1dGPLxgpPTUGhAGb3cCXsiaQSuraun2kNj](xtz.png)
-- - Or buy any of NFTs:
-- - - [Buy me a life!](https://bit.ly/3nHQ2Uh)
-- - - [Shared folder (Red box)](https://bit.ly/3eVNPlm)
+
