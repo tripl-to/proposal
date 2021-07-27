@@ -58,7 +58,6 @@ TBD
 
 We can make the travel industry a more fair one. Why traveling to xxx which is 10k km from home is cheaper than going to the country next to ours? Costs. Simple, but that implies that people get less for the same work.
 
-
 # Road map & high level implementation details
 
 ## Road map
@@ -68,7 +67,6 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 - Coin selection or creation
 - Coding first versions on test networks.
 - TBD
-
 
 ## Bonan vojaĝon! Coin
 
@@ -109,10 +107,9 @@ A _host_ can be validated be a reseller (acting as a _helper_ for the block-chai
 - Helper
 - Reseller
 
-
 # Who we are
 
-By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_ looks better than _me_ . I hope some people will join... me, us? :)
+We are [this team](https://github.com/orgs/bonan-vojagon/people) ... but we're looking forward more people to join us, come on!
 
 ## Why is this distributed as GPL
 
@@ -120,14 +117,10 @@ We are in the middle of a turn in history. A decentralised travel blockchain is 
 
 We would love to send this idea to the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I still believe that big players can help to develop this faster but I'm not going to wait.
 
-
-
-
 # Support
 
 Who can you help this idea grow?
 
 - Share it in the social media.
 - Share it in your company, university...
-- The idea is free to be copy and developed by anyone... and improved, of course, you can *send a PR!* if you want this document can be improve (I'm sure of it)
-
+- The idea is free to be copy and developed by anyone... and improved, of course, you can *send a PR!* if you want this document can be improve (We're sure of it)
