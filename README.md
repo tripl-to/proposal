@@ -24,15 +24,15 @@ _Host_ can drop rooms at a fixed price or to an auction. They can also set if th
 
 ## Privacy
 
-All booking will remain anonymous. At the check in the user can show an confirmation code generated with their private key. The _host_ can have temporary access to the _traveler_ personal information to complete regulation.
+All booking will remain anonymous. At the check in the user can show a confirmation code generated with their private key. The _host_ can have temporary access to the _traveler_ personal information to complete regulation.
 
-Some service, like flights, requires some personal information in advance, like nationality. On this kind of services _hosts_ can specify which data can have last minute changes. Also, if the service requieres any data must be visible by the _host_ prior to the service the _traveler_ will know it before booking.
+Some services, like flights, requires some personal information in advance, like nationality. On this kind of services _hosts_ can specify which data can have last minute changes. Also, if the service requieres any data must be visible by the _host_ prior to the service the _traveler_ will know it before booking.
 
-All bookings/transactions even between the same _traveler_ and _host_ will be anonymized. The host will not be able to track previous booking from the same traveler in the block-chain unless the traveler allow it (usually as part of some loyalty program) but in anyway the relationship will be private in the block-chain.
+All bookings/transactions even between the same _traveler_ and _host_ will be anonymized. The host will not be able to track previous booking from the same traveler in the block-chain unless the traveler allow it (usually as part of some loyalty program) but, anyway, the relationship will be private in the block-chain.
 
 ## Taxes
 
-The block-chain as a decentralized entity can not retain any taxes. All prices in the block-chain are consumer prices. _Hosts_ and _helpers_ can generate invoices and taxes declaration based on the data in the block-chain. _Hosts_ can delegate this task to _helpers_ given them a restricted access to some data. _helpers_ can also deliver software that could be installed in the _hosts_ network to insure that any private data is never shared. _travelers_ can agree with the _hosts_ if their personal data can be shared with _helpers_ for certain purposes, like taxes.
+The block-chain as a decentralized entity cannot retain any taxes. All prices in the block-chain are consumer prices. _Hosts_ and _helpers_ can generate invoices and taxes declaration based on the data in the block-chain. _Hosts_ can delegate this task to _helpers_ given them a restricted access to some data. _helpers_ can also deliver software that could be installed in the _hosts_ network to insure that any private data is never shared. _travelers_ can agree with the _hosts_ if their personal data can be shared with _helpers_ for certain purposes, like taxes.
 
 Governments can see all transaction on the network. While the privacy is guaranteed for the _travelers_ open identity is a must for services providers in the network.
 
@@ -42,7 +42,7 @@ A _hosts_ (an hotel, for example) can start a bid for a bundle (allotment) for t
 
 ## Private resale
 
-Did you book a room for that Champions Final in Barcelona and your team did not get to final? Re sale that room to a fixed price or in an auction! The _host_ will get a part but there will be no cancellation.
+Did you book a room for that Champions Final in Barcelona and your team did not get to final? Re-sale that room to a fixed price or in an auction! The _host_ will get a part but there will be no cancellation.
 
 ## Block-chain rewards and governance
 
@@ -63,7 +63,8 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 
 ## Road map
 
-- Ideation, sharing => looking for people to join, criticize, grow the idea.
+- Ideation, sharing: looking for people to join, criticize, grow the idea.
+- Partnership: look for partners (mainly univerities, hotel chains, bed banks and distributors)
 - Coin selection or creation
 - Coding first versions on test networks.
 - TBD
@@ -71,7 +72,7 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 
 ## Bonan vojaĝon! Coin
 
-By this time you may want to know which crypto asset to buy because this project is amazing... Creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any existing coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. Bonan vojaĝon! coin may exist but **we prefer to define an excellent product with a clear market rules before choosing or creating a coin**.
+By this time you may want to know which crypto asset to buy because this project is amazing... Creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any existing coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. It should be possible to implement Bonan vojaĝon! with these or another coins. Bonan vojaĝon! coin may exist but **we prefer to define an excellent product with a clear market rules before choosing or creating a coin**.
 
 ## Identity
 
@@ -109,17 +110,15 @@ A _host_ can be validated be a reseller (acting as a _helper_ for the block-chai
 - Reseller
 
 
-
 # Who we are
+
 By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_ looks better than _me_ . I hope some people will join... me, us? :)
 
 ## Why is this distributed as GPL
 
-We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about when and who. We hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experiences.
+We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about _when_ and _who_. We hope we can help to create a fair one. One _international standard_ that warranties the freedom of host and travelers to offer and enjoy the best experiences, and allows the industry players to add value.
 
-I shared this idea in my company, originally to include it the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I still believe that big players can help to develop this faster but I'm not going to wait.
-
-
+This idea is suitable to be included in the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. We truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels, and we also believe that big players can help to develop this faster.
 
 
 # Support
@@ -127,13 +126,9 @@ I shared this idea in my company, originally to include it the European Research
 Who can you help this idea grow?
 
 - Share it in the social media.
-- Share it in your company, university...
-- The idea is free to be copy and developed by anyone... and improved, of course, you can *send a PR!* if you want this document can be improve (I'm sure of it)
-- I can work on the idea more but to do it full time I need financial support, if we consider this a path you can donate to:
-- - BTC: [bc1qwprgqhg5yvc3pksgkx7ew8dhhpv7lp4jfl7qze](btc.png)
-- - ETH: [0xF1D732322E10020661D1CDC52118B796A846B38C](eth.png) (ERC20)
-- - XMR: [46jmvAETyCehRGBfNh6sgccjQ78cnviC81irNigqk77KUx4vigTRjRFMjVeLU8Bnf418EYYJCHqDK11gCSxbK1KRBcicP7n](xmr.png)
-- - XTZ: [tz1dGPLxgpPTUGhAGb3cCXsiaQSuraun2kNj](xtz.png)
-- - Or buy any of NFTs:
-- - - [Buy me a life!](https://bit.ly/3nHQ2Uh)
-- - - [Shared folder (Red box)](https://bit.ly/3eVNPlm)
+- Share it in your company, university ...
+- The idea is free to be developed by anyone... and improved, of course, you can *send a PR!* if you want this document can be improved (for sure ;)
+
+We need financial support, if we consider this a path you can donate to:
+
+- TBD
