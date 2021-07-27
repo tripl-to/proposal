@@ -116,9 +116,11 @@ By the time of this commit, we are [@fransimo](https://fransimo.info/). But _we_
 
 ## Why is this distributed as GPL
 
-We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about _when_ and _who_. We hope we can help to create a fair one. One _international standard_ that warranties the freedom of host and travelers to offer and enjoy the best experiences, and allows the industry players to add value.
+We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about _when and who_. We hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experiences.
 
-This idea is suitable to be included in the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. We truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels, and we also believe that big players can help to develop this faster.
+We would love to send this idea to the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I still believe that big players can help to develop this faster but I'm not going to wait.
+
+
 
 
 # Support
@@ -126,9 +128,6 @@ This idea is suitable to be included in the European Research Found. That founds
 Who can you help this idea grow?
 
 - Share it in the social media.
-- Share it in your company, university ...
-- The idea is free to be developed by anyone... and improved, of course, you can *send a PR!* if you want this document can be improved (for sure ;)
+- Share it in your company, university...
+- The idea is free to be copy and developed by anyone... and improved, of course, you can *send a PR!* if you want this document can be improve (I'm sure of it)
 
-We need financial support, if we consider this a path you can donate to:
-
-- TBD
