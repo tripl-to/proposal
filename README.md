@@ -1,4 +1,6 @@
-# Bonan vojaĝon! Experience, travel and leisure block-chain
+# TRIPL: Experience, travel and leisure block-chain
+
+TRIPL = smaRT TRaveL IndusTRy PRoTocoL
 
 ## Introduction
 
@@ -68,9 +70,9 @@ We can make the travel industry a more fair one. Why traveling to xxx which is 1
 - Coding first versions on test networks.
 - TBD
 
-## Bonan vojaĝon! Coin
+## TRIPL Coin
 
-By this time you may want to know which crypto asset to buy because this project is amazing... Creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any existing coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. It should be possible to implement Bonan vojaĝon! with these or another coins. Bonan vojaĝon! coin may exist but **we prefer to define an excellent product with a clear market rules before choosing or creating a coin**.
+By this time you may want to know which crypto asset to buy because this project is amazing... Creating a crypto currency maybe required but it's not the only way. The network will have a reward system but it may be implemented in any existing coin. Services in this network should use any currency. Some _hosts_ may prefer BTC or ETH while other will tend to use USDT or BUSD. It should be possible to implement TRIPL with these or another coins. TRIPL coin may exist but **we prefer to define an excellent product with a clear market rules before choosing or creating a coin**.
 
 ## Identity
 
