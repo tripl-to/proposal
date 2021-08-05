@@ -111,7 +111,7 @@ A _host_ can be validated be a reseller (acting as a _helper_ for the block-chai
 
 # Who we are
 
-We are [this team](https://github.com/orgs/bonan-vojagon/people) ... but we're looking forward more people to join us, come on!
+We are [this team](https://github.com/orgs/tripl-to/people) ... but we're looking forward more people to join us, come on!
 
 ## Why is this distributed as MIT
 
