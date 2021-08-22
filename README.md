@@ -6,7 +6,6 @@ TRIPL = smaRT TRaveL IndusTRy PRoTocoL
 
 Hotel nights, flight seats, opera tickets and a place in an exotic expedition can be seen as NFTs.
 
-
 ### TRIPL solves
 
 Any technology should solve a problem. Our objective with TRIPL is to solve these problems:
@@ -141,13 +140,13 @@ A _host_ can be validated be a reseller (acting as a _helper_ for the block-chai
 
 # Who we are
 
-We are [this team](https://github.com/orgs/tripl-to/people) ... but we're looking forward more people to join us, come on!
+We are [this team](https://github.com/orgs/tripl-to/people) ... but we're looking forward more people to join us, come in!
 
 ## Why is this distributed as MIT
 
 We are in the middle of a turn in history. A decentralised travel blockchain is inevitable, it's not about _if_ it's just about _when and who_. We hope we can help to create a fair one. One that warranties the freedom of host and travelers to offer and enjoy the best experiences.
 
-We would love to send this idea to the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. I truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels. I still believe that big players can help to develop this faster but I'm not going to wait.
+We would love to send this idea to the European Research Found. That founds are giving priority to collaborative projects between universities and several companies. We truly believe that frameworks is the ideal to develop a new industry standard that will change how we buy and trade our travels.
 
 # Support
 
