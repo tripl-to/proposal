@@ -2,7 +2,7 @@ language: python # Set the build language to Python
 
 python: 3.8 # Set the version of Python to use
 
-branches: master, mkdocs  # Set the branch to build from
+branches: mkdocs  # Set the branch to build from
 
 install:
     - pip install mkdocs # Install the required dependencies
