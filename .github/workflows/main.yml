@@ -42,6 +42,7 @@ jobs:
         env:
           dest: 'dh_h7fkju@tripl.to:/home/dh_h7fkju/tripl.to' 
         run: |
+          echo "${{secrets.DEPLOY_KEY}}"
           echo "${{secrets.DEPLOY_KEY}}" > deploy_key
           chmod 600 ./deploy_key
           rsync -chav --delete \
