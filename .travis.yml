@@ -5,8 +5,5 @@ python: 3.8 # Set the version of Python to use
 install:
     - pip install mkdocs # Install the required dependencies
 
-before_deploy:
-    - mkdocs build --verbose --clean --strict # Build a local version of the docs
-
 script:
     - mkdocs build --verbose --clean --strict
