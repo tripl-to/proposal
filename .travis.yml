@@ -1,9 +1,0 @@
-language: python # Set the build language to Python
-
-python: 3.8 # Set the version of Python to use
-
-install:
-    - pip install mkdocs # Install the required dependencies
-
-script:
-    - mkdocs build --verbose --clean --strict
