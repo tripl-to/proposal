@@ -1,0 +1,5 @@
+site_name: "TRIPL: Experience, travel and leisure block-chain"
+
+theme:
+    name: material
+    locale: en
