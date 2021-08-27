@@ -31,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install mkdocs mkdocs-material
+          pip install -r requirements.txt
 
       - name: Generate site
         run: |
@@ -50,5 +50,5 @@ jobs:
             --exclude /deploy_key \
             --exclude /.git/ \
             --exclude /.github/ \
-            --exclude /node_modules/ \
             ./site/ ${{env.dest}}
+          rm deploy_key
