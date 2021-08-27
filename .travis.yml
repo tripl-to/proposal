@@ -8,4 +8,5 @@ install:
 before_deploy:
     - mkdocs build --verbose --clean --strict # Build a local version of the docs
 
-
+script:
+    - mkdocs build --verbose --clean --strict
