@@ -1,23 +1,30 @@
 # Introduction - TRIPL = smaRT TRaveL IndusTRy PRoTocoL
 
-TRIPL allows a direct interaction between the hotels, airlines, experience providers (_hosts_) and travelers. TRIPL is
-a protocol that enables a new distributed market based on web3 and blockchain technologies. A standard protocol
-based on smart contracts allow the industry to interact in a new way, between hosts and travellers.
+**TLDR for blockchain experts: Hotel nights, flight seats, opera tickets and a place in an exotic expedition can be 
+seen as NFTs.**
+
+TRIPL allows a direct interaction between hotels, airlines, experience providers (_hosts_) and travelers. TRIPL is
+a protocol that enables a new distributed market based on web3, smart contracts and blockchain technologies. It 
+allows the industry to interact in a new way, between hosts and travellers.
 
 New application could be developed, such as:
 - Allotment auctions.
-- Cross _hosts_ traveller points.
+- Cross _hosts_ traveller points/fidelity programs.
 - New reputation system for both _hosts_ and travellers that can integrate with old ones.
+- Package editors won't need direct contracts with each _host_. They will be able to _bundle_ packages joining each 
+  _hosts_ availability.
+- Credit lines could be provided based on the _host_ sales.
 
-Hotel nights, flight seats, opera tickets and a place in an exotic expedition can be seen as NFTs.
+
 
 ## TRIPL solves
 
 Any technology should solve a problem. Our objective with TRIPL is to solve these problems:
 
 - Avoid redundant availability calculations across the industry for the same allotment/resource.
-- Avoid unexpected cost on cancellation due to currencies fluctuation.
+- Avoid unexpected cost on cancellation due to currencies fluctuation. 
 - Reduce financial complexity.
+- Reduce contracting complexity. The smart contract, the code, is te contract.
 
 ## TRIPL extra benefits
 
@@ -31,8 +38,8 @@ Any technology should solve a problem. Our objective with TRIPL is to solve thes
 
 - TRIPL is not a company. TRIPL is a project to implement an open market protocol, based on a set of smart contracts,
   with direct governance of all actors (including the travelers).
-- TRIPL is a disruptive technology that gives an opportunity to all current actors to play a role an stay in the
-  business improving its currect value.
+- TRIPL is a disruptive technology that gives an opportunity to all current actors to play a role and stay in the
+  business improving its current value.
 - TRIPL should be a join effort between the travel and cryptocurrency industries, the universities and the European
   Union.
 
