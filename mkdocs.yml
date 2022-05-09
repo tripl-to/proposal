@@ -14,6 +14,7 @@ nav:
   - "Road map & high level implementation details": "10_roadmap.md"
   - "Who we are": "20_who.md"
   - "Other projects": "30_others.md"
+  - 'Print': '/print_page/'
 
 plugins:
   - git-revision-date
