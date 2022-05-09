@@ -29,6 +29,6 @@ Any technology should solve a problem. Our objective with TRIPL is to solve thes
 
 We identify the following challenges:
 
-- a
+
 
 
