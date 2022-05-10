@@ -1,4 +1,4 @@
-# Road map & high level implementation details
+# (Work in Progress) Road map & high level implementation details
 
 ## Road map
 
@@ -22,26 +22,27 @@ _hosts_ may also requires delegation of certain permission to their workers, _he
 
 A _host_ can be validated be a reseller (acting as a _helper_ for the block-chain) or by _travelers_. As any decentralized database, making sure that the service offered are real is a main concern. Actual travel industry players can be very use full to validate _hosts_.
 
-## Objects
+## Objects (entities)
 
 - Experience (a set of:)
-- - Booking
-- - - Accommodation
-- - - - Hotel
-- - - - Camping
-- - - - B&B
-- - - - AirBNB like
-- - - - Couch
-- - - - Bed
-- - - Transport
-- - - - Flight
-- - - - Train
-- - - - Car rental
-- - - - Taxi, transfer
-- - - - Bus
-- - - Event (ticket)
-- - - - Concert
-- - - Food? Amenities?...
+  - Booking
+    - Accommodation
+    - Hotel
+    - Camping
+    - B&B
+    - AirBNB like
+    - Couch
+    - Bed
+  - Transport
+    - Flight
+    - Train
+    - Car rental
+    - Taxi, transfer
+    - Bus
+  - Ticket
+    - Concert, sports, etc.
+    - Food? Amenities?...
+
 - Traveler
 - Host
 - Performer
