@@ -1,5 +1,76 @@
 site_name: "TRIPL: Experience, travel and leisure block-chain"
 
+repo_url: https://github.com/tripl-to/proposal
+edit_uri: edit/main/docs/
+
+copyright: MIT License - 2022
+
+extra:
+  version: 1.0.0
+
+nav:
+  - "Introduction": "README.md"
+  - "Main ideas/concepts": "01_main.md"
+  - "Road map & high level implementation details": "10_roadmap.md"
+  - "Who we are": "20_who.md"
+  - "Other projects": "30_others.md"
+  - 'Print': '/print_page/'
+
+plugins:
+  - git-revision-date
+  - print-site:
+      add_to_navigation: false
+      print_page_title: 'Print Site'
+      add_print_site_banner: true
+      # Table of contents
+      add_table_of_contents: true
+      toc_title: 'Table of Contents'
+      toc_depth: 6
+      # Content-related
+      add_full_urls: false
+      enumerate_headings: true
+      enumerate_figures: true
+      add_cover_page: true
+      cover_page_template: ""
+      path_to_pdf: ""
+      include_css: true
+      enabled: true
+      exclude:
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
 theme:
     name: material
     locale: en
+    language: en
+
+    features:
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.sections
+      - toc.integrate
+
+    palette:
+      - scheme: default
+        primary: grey
+        toggle:
+          icon: material/lightbulb-outline
+          name: Switch to dark mode
+      - scheme: slate
+        primary: grey
+        toggle:
+          icon: material/lightbulb-outline
+          name: Switch to light mode
+    navigation_depth: 10
+    prev_next_buttons_location: both
+    collapse_navigation: False
