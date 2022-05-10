@@ -22,7 +22,7 @@ _Host_ can drop rooms at a fixed price or to an auction. They can also set if th
 
 All booking will remain anonymous. At the check in the user can show a confirmation code generated with their private key. The _host_ can have temporary access to the _traveler_ personal information to complete regulation.
 
-Some services, like flights, requires some personal information in advance, like nationality. On this kind of services _hosts_ can specify which data can have last minute changes. Also, if the service requieres any data must be visible by the _host_ prior to the service the _traveler_ will know it before booking.
+Some services, like flights, require some personal information in advance, like nationality. On this kind of services _hosts_ can specify which data can have last minute changes. Also, if the service requieres any data must be visible by the _host_ prior to the service the _traveler_ will know it before booking.
 
 All bookings/transactions even between the same _traveler_ and _host_ will be anonymized. The host will not be able to track previous booking from the same traveler in the block-chain unless the traveler allow it (usually as part of some loyalty program) but, anyway, the relationship will be private in the block-chain.
 
