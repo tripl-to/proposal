@@ -3,7 +3,7 @@
 **TLDR for blockchain experts: Hotel nights, flight seats, opera tickets and a place in an exotic expedition can be
 seen as NFTs.**
 
-TRIPL allows a direct interaction between _hosts_ (hotels, airlines, activities...) and travelers. TRIPL is
+TRIPL allows direct interaction between _hosts_ (hotels, airlines, activities...) and travelers. TRIPL is
 a protocol that enables a new open and distributed market based on web3, smart contracts and blockchain technologies.
 It allows the industry to interact in a new way, between hosts and travellers.
 
@@ -11,9 +11,9 @@ On top of the current industry applications new ones could be developed, such as
 
 - Allotment auctions.
 - Cross _hosts_ and traveller points/fidelity programs.
-- New reputation system for both _hosts_ and travellers that can integrate with old ones. That reputation points
+- A new reputation system for both _hosts_ and travellers that can integrate with old ones. Those reputation points
   will be used to governance the network (Decentralized Autonomous Organization).
-- Packages can be created directly inside the blockchain. Package creators won't need direct contracts with each 
+- Packages can be created directly inside the blockchain. Package creators will not need direct contracts with each 
   _host_. They will be able to _bundle_ packages joining each _hosts_ availability.
 - Credit lines could be provided based on the _host_'s _"locked on contract"_ sales.
 
