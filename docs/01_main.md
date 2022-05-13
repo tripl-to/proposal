@@ -12,7 +12,11 @@
 
 Travel industry spends on availability calculations a lot. Over and over tons of CPU cycles are used to know the price of a room in Paris for the next week. This calculus takes a lot of parameters, mostly all commercial ones totally obscure for the traveler, like the discounts the middle man have, the taxes that needs to pay with the ten financial companies they uses to bill their clients which are doing a very similar calculus for the traveler.
 
-An NFT distributed database will make all that obsolete. The availability and the price are always public.
+Decentralized by design: every actor could host a network node. Every node has an updated copy of the inventory. No 
+availability  requests are needed. Only confirmation is sent over the network. This is a distributed availability 
+stack with check rate capabilities inside any home. Confirmation is verified by the network.
+
+An NFT distributed database will make all that obsolete. The availability and the price are always public. 
 
 In the most simple operation the _host_ publish what they want to sell and its price. The _traveler_ interact with the block-chain and get that price.
 
