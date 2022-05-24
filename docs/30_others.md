@@ -1,8 +1,10 @@
 # Other projects
 
 ## Blockchain projects
- - [Winding Tree](https://windingtree.com/) They did a presentation back in 2017 in Hotelbeds. Almost the same idea.
- - [BitBook](https://bitbook.net/)
+ - [Winding Tree](https://windingtree.com/) They did a presentation back in 2017 in Hotelbeds. Almost the same idea 
+   as TRIPL.
+ - [Dtravel](https://dtravel.com/)
+ - [BitBook](https://bitbook.net/) "Everyone deserves to travel, and BitBook is making this reality possible by rewarding people who book through their site, invite others or create compelling content."
  - [Otium Technologies](https://otiumtechnologies.com/) They are in Mallorca. A similar idea too.
  - [Travel inblock](https://travel-inblock.io/) (ex HBG people, very vague definition of the product)
  - [Travel Coin](https://tcoin.one/) Scam?
