@@ -3,7 +3,7 @@
 We are [this team](https://github.com/orgs/tripl-to/people) ... but we're looking forward more people to join us, come
 in!
 
-You can also contact us at [info@tripl.to](mailto:info@tripl.to)
+You can also contact us at [contact@fransimo.info](mailto:contact@fransimo.info)
 
 ## Why is this distributed as MIT
 
