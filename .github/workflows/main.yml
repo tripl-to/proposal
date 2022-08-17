@@ -41,7 +41,7 @@ jobs:
       - name: Sync
         # https://stackoverflow.com/questions/54503807/how-to-access-the-value-of-secrets-in-github-actions
         env:
-          dest: 'dh_h7fkju@tripl.to:/home/dh_h7fkju/tripl.to' 
+          dest: 'dh_h7fkju@tripl.fransimo.info:/home/dh_h7fkju/tripl.to'
         run: |
           echo "${{secrets.DEPLOY_KEY}}" > deploy_key
           chmod 600 ./deploy_key
