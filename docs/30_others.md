@@ -18,7 +18,9 @@
    blockchain. They partnered with Expedia and [Binance](https://www.travala.com/binance).
 
 ## Articles
+
 - [Blockchain-based booking platform allows everyone to experience travel](https://cointelegraph.com/news/blockchain-based-booking-platform-allows-everyone-to-experience-travel)
 - [NEW BOOKING SYSTEMS SIGNAL NEXT STEP FOR BLOCKCHAIN](https://www.phocuswire.com/new-booking-systems-from-winding-tree-dtravel-signal-next-step-for-blockchain-distribution)
 - [5 Companies Using Blockchain to Change Travel](https://www.investopedia.com/news/6-companies-using-blockchain-change-travel-0/)
+- [Why The Travel Industry Is Blockchain's Best Bet 2018](https://www.forbes.com/sites/davidpetersson/2018/12/19/why-the-travel-industry-is-blockchains-best-bet/?sh=77f39e74f5da)
 - [TUI Beds Swap, 2017](https://www.youtube.com/watch?v=MtR770GLviU&t=1s)
