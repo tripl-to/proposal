@@ -1,7 +1,9 @@
 # Other projects
 
 ## Blockchain projects
- - [Chain4Travel](https://www.chain4travel.com/): great team and [supporters](https://www.chain4travel.com/supporter/) with great industry knowledge.
+ - [LockTrip](https://locktrip.com/): Their presentation [is very instructive, it can be viewed here](https://docs.google.com/presentation/d/e/2PACX-1vSRWjQyreJVNitUnKCUtRX5jkybwvfX4u-5jBR8rYJ1MXPbGRsz4plG5Jhi_h8iNxcBw2QH0QMGNK9w/pub?start=false&loop=false&delayms=3000&slide=id.p1).
+ - [Chain4Travel](https://www.chain4travel.com/): Great team and [supporters](https://www.chain4travel.
+   com/supporter/) with great industry knowledge.
  - [Winding Tree](https://windingtree.com/) They did a presentation back in 2017 in Hotelbeds. Almost the same idea 
    as TRIPL.
  - [Dtravel](https://dtravel.com/) "Dtravel is starting with a minimum viable product launching in partnership with Hostaway. Through an API integration to its property management system, Hostaway customers have the option to “turn on” Dtravel as a distribution channel, enabling on-chain bookings without a big learning curve or change in operations for hosts. "
